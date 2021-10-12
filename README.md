@@ -34,13 +34,12 @@ height="50px"
     height="50px"
 /> 
 <table table-layout="fixed">
-<col width="20px" />
 <tr>
- <th scope="col" width="60px">C</th>
- <th scope="col" width="60px">Rust</th>
- <th scope="col" width="60px">Python</th>
- <th scope="col" width="60px">Bash</th>
- <th scope="col" width="60px">Javascript</th>
+ <th scope="col" width="100px">C</th>
+ <th scope="col" width="100px">Rust</th>
+ <th scope="col" width="100px">Python</th>
+ <th scope="col" width="100px">Bash</th>
+ <th scope="col" width="100px">Javascript</th>
 </tr>
  </table>
 
@@ -71,11 +70,11 @@ height="50px"
 
 <table table-layout="fixed">
 <tr>
- <th scope="col" width="50px">Comp.<br>Gráfica</th>
- <th scope="col" width="50px">Cyber.<br>Segurança</th>
- <th scope="col" width="50px"><div class="bloco">Kernel</div></th>
- <th scope="col" width="50px"><div class="bloco">SO's</div></th>
- <th scope="col" width="50px"><div class="bloco">Algoritmos</div></th>
+ <th scope="col" width="100px">Comp.<br>Gráfica</th>
+ <th scope="col" width="100px">Cyber.<br>Segurança</th>
+ <th scope="col" width="100px"><div class="bloco">Kernel</div></th>
+ <th scope="col" width="100px"><div class="bloco">SO's</div></th>
+ <th scope="col" width="100px"><div class="bloco">Algoritmos</div></th>
 </tr>
  </table>
 
