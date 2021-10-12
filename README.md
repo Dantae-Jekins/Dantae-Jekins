@@ -8,7 +8,7 @@ ps. eu sou meio infantil (bobo), mas eu me controlo, além disso, eu não uso re
 
 <hr>
 
-### Interesses:
+### **Interesses:**
 Todos temos os nossos interesses, eu me sinto muito mais confortável em programar Back-End, sinto dizer mas HTML e CSS me dão enjôo 🤢, brincadeira só quando eu tenho que usar MUITO (como em sites) estes.
 
 - ***LINGUAGENS***
@@ -82,52 +82,70 @@ height="50px"
 
 <hr>
 
+<br>
+
 ### **Experiência**
 
-- Linguagens 
-    - Rust . . . . . . . (Intermediário);
-    - C . . . . . . . . . . (Suficiente?);
-    - Javascript . . . (Superficialmente);
-    - Python . . . . . (Superficialmente);
-    - LaTeX . . . . . . (Superficialmente).
+- ***NO MERCADO DE TRABALHO***
+
+    NENHUMA! Contribua ao paid source jeki oferecendo uma vaga :'(.
 
 <br>
 
-- Sistemas Operacionais e ferramentas 
-    - UNIX principalmente;
-    - WINDOWS.
+- ***SISTEMAS OPERACIONAIS E FERRAMENTAS***
+
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"
+    width="50px"
+    height="50px"
+/> ---- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    width="50px"
+    height="50px"
+/> ---- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"  
+    width="50px"
+    height="50px"
+/> ---- 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    width="50px"
+    height="50px"
+/>
+
+<table table-layout="fixed">
+<tr>
+ <th scope="col" width="100px">UNIX</th>
+ <th scope="col" width="100px">CODE</th>
+ <th scope="col" width="100px">VIM!</th>
+ <th scope="col" width="100px">GIT</th>
+</tr>
+</table>
 
 <br>
 
-- Ferramentas
-    - VIM principalmente;
-    - Terminal do linux;
-    - Visual Studio Code;
-    - Git.
+- ***LINGUAGENS***
 
-Eu raramente trago muitos projetos ao GITHUB, e a distribuição das linguagens ainda está muito homogênea (só tem C SHAUSHUS), mas aqui está:
+    Eu raramente trago muitos projetos ao GITHUB, e a distribuição das linguagens ainda está muito homogênea (só tem C SHAUSHUS), mas aqui está:
 
 <br>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&layout=compact&langs_count=7&theme=gruvbox"/>
 
-
+<br>
 
 <hr>
 
-Contatos:
-
-<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-
->Dantae#3327
-
 <br>
 
-<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
-> dantae.sona.jekins@gmail.com
-
-
+<table table-layout="fixed">
+<tr>
+ <th scope="col" width="100px"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100px" height="30px">
+</th>
+ <th scope="col" width="200px">Dantae#3327</th>
+<tr>
+ <th scope="col" width="100px"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px"></th>
+ <th scope="col" width="250px">dantae.sona.jekins@gmail.com</th>
+</tr>
+</table>
 
 <!--
 **Dantae-Jekins/Dantae-Jekins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
