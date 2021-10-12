@@ -128,7 +128,7 @@ height="50px"
 
 <br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&layout=compact&langs_count=4&theme=gruvbox"/>
 
 <br>
 
@@ -136,13 +136,15 @@ height="50px"
 
 <br>
 
+### CONTATOS:
+
 <table table-layout="fixed">
 <tr>
- <th scope="col" width="100px"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100px" height="30px">
+ <th scope="col" width="100px"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="110px" height="30px">
 </th>
  <th scope="col" width="200px">Dantae#3327</th>
 <tr>
- <th scope="col" width="100px"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px"></th>
+ <th scope="col" width="100px"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110px" height="30px"></th>
  <th scope="col" width="250px">dantae.sona.jekins@gmail.com</th>
 </tr>
 </table>
