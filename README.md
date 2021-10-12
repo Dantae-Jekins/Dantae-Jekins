@@ -4,8 +4,6 @@
 
 Hello! Meu nome é Murilo e eu tenho 17 anos (talvez eu acabe esquecendo de mudar e tenha um ano de diferença aqui..), eu prego muito pela privacidade (minha própria inclusive) e por isso não vou dispor totalmente da minha liberdade de me apresentar, ao invés disso, vou dar apenas uma breve introdução ao meu interesse na computação. 😄
 
-ps. eu sou meio infantil (bobo), mas eu me controlo, além disso, eu não uso redes sociais (se você considerar, apenas discord e youtube).
-
 <hr>
 
 ### **Interesses:**
