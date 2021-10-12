@@ -6,23 +6,6 @@ Hello! Meu nome é Murilo e eu tenho 17 anos (talvez eu acabe esquecendo de muda
 
 ps. eu sou meio infantil (bobo), mas eu me controlo, além disso, eu não uso redes sociais (se você considerar, apenas discord e youtube).
 
-<style>
-
-.bloco
-{
-    width ="56px";
-    padding="0";
-    margin="0";
-    text-align="center";
-    font-size:="10px";
-}
-.DISPLAY>img
-{
-    width="50px";
-    height="50px";
-    padding="11px";
-}
-</style>
 <hr>
 
 ### Interesses:
