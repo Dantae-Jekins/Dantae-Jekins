@@ -33,14 +33,14 @@ height="50px"
     width="50px"
     height="50px"
 /> 
-<table>
-
+<table table-layout="fixed">
+<col width="20px" />
 <tr>
- <th scope="col">  C  </th>
- <th scope="col">  Rust  </th>
- <th scope="col">  Python </th>
- <th scope="col"> Bash</th>
- <th scope="col"> Javascript</th>
+ <th scope="col" width="60px">C</th>
+ <th scope="col" width="60px">Rust</th>
+ <th scope="col" width="60px">Python</th>
+ <th scope="col" width="60px">Bash</th>
+ <th scope="col" width="60px">Javascript</th>
 </tr>
  </table>
 
@@ -51,15 +51,15 @@ height="50px"
 <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-cube-augmented-reality-inipagistudio-lineal-color-inipagistudio.png"
     width="50px"
     height="50px"
-/>     
+/>    
 <img src="https://img.icons8.com/nolan/64/skull.png"
     width="50px"
     height="50px"
-/>     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+/>    
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"    
     width="50px"
     height="50px"
-/>   
+/>    
 <img src="https://img.icons8.com/color/48/000000/free-bsd.png"
     width="50px"
     height="50px"
@@ -69,14 +69,13 @@ height="50px"
     height="50px"
 />
 
-<table>
-
+<table table-layout="fixed">
 <tr>
- <th scope="col"><div class="bloco">Kernels</div></th>
- <th scope="col"><div class="bloco">Cyber.<br>segurança</div></th>
- <th scope="col"><div class="bloco">Comp.<br>Gráfica</div></th>
- <th scope="col"><div class="bloco">SO's</div></th>
- <th scope="col"><div class="bloco">Algoritmos</div></th>
+ <th scope="col" width="50px">Comp.<br>Gráfica</th>
+ <th scope="col" width="50px">Cyber.<br>Segurança</th>
+ <th scope="col" width="50px"><div class="bloco">Kernel</div></th>
+ <th scope="col" width="50px"><div class="bloco">SO's</div></th>
+ <th scope="col" width="50px"><div class="bloco">Algoritmos</div></th>
 </tr>
  </table>
 
