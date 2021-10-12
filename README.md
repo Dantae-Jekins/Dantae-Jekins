@@ -53,10 +53,10 @@ height="50px"
 <table>
 
 <tr>
- <th scope="col">  C   </th>
- <th scope="col">  Rust</th>
- <th scope="col">  Python</th>
- <th scope="col">   Bash</th>
+ <th scope="col">  C  </th>
+ <th scope="col">  Rust  </th>
+ <th scope="col">  Python </th>
+ <th scope="col"> Bash</th>
  <th scope="col"> Javascript</th>
 </tr>
  </table>
@@ -68,11 +68,11 @@ height="50px"
 <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-cube-augmented-reality-inipagistudio-lineal-color-inipagistudio.png"
     width="50px"
     height="50px"
-/>    
+/>     
 <img src="https://img.icons8.com/nolan/64/skull.png"
     width="50px"
     height="50px"
-/>    
+/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
     width="50px"
     height="50px"
@@ -80,7 +80,7 @@ height="50px"
 <img src="https://img.icons8.com/color/48/000000/free-bsd.png"
     width="50px"
     height="50px"
-/>   
+/>    
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/000000/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png"
     width="50px"
     height="50px"
