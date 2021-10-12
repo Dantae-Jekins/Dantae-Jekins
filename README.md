@@ -16,19 +16,19 @@ Todos temos os nossos interesses, eu me sinto muito mais confortável em program
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"    
 width="50px"
 height="50px"
-/>  
+/> ---- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
     width="50px"
     height="50px"
-/>  
+/> ---- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
     width="50px"
     height="50px"
-/>  
+/> ---- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
     width="50px"
     height="50px"
-/>  
+/> ---- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     width="50px"
     height="50px"
@@ -50,19 +50,19 @@ height="50px"
 <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-cube-augmented-reality-inipagistudio-lineal-color-inipagistudio.png"
     width="50px"
     height="50px"
-/>    
+/> ---- 
 <img src="https://img.icons8.com/nolan/64/skull.png"
     width="50px"
     height="50px"
-/>    
+/> ---- 
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"    
     width="50px"
     height="50px"
-/>    
+/> ---- 
 <img src="https://img.icons8.com/color/48/000000/free-bsd.png"
     width="50px"
     height="50px"
-/>    
+/> ---- 
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/000000/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png"
     width="50px"
     height="50px"
