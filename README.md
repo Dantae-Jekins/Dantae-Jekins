@@ -40,6 +40,7 @@ height="50px"
  </table>
 
 <br>
+
 - ***ÁREAS***
 
 <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-cube-augmented-reality-inipagistudio-lineal-color-inipagistudio.png"
