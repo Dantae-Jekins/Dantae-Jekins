@@ -5,7 +5,7 @@ yummm torta holandesa é mt boa
 <hr>
 
 ### **Interesses:**
-Todos temos os nossos interesses, eu me sinto muito mais confortável em programar Back-End, sinto dizer mas HTML e CSS me dão enjôo 🤢, brincadeira só quando eu tenho que usar MUITO (como em sites) estes.
+Todos temos os nossos interesses, eu me sinto muito mais confortável em programar- qualquer coisa menos html e css.
 
 - ***LINGUAGENS***
 
@@ -40,7 +40,6 @@ height="50px"
  </table>
 
 <br>
-
 - ***ÁREAS***
 
 <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-cube-augmented-reality-inipagistudio-lineal-color-inipagistudio.png"
@@ -84,7 +83,7 @@ height="50px"
 
 - ***NO MERCADO DE TRABALHO***
 
-    NENHUMA! Contribua ao paid source jeki oferecendo uma vaga :'(.
+    nenhuma, aceitando vagas :'(.
 
 <br>
 
@@ -120,7 +119,7 @@ height="50px"
 
 - ***LINGUAGENS***
 
-    Eu raramente trago muitos projetos ao GITHUB, e a distribuição das linguagens ainda está muito homogênea (só tem C SHAUSHUS), mas aqui está:
+    Eu revejo linguagens por fora, mas aquelas que eu tenho maior memória muscular são:
 
 <br>
 
@@ -138,7 +137,7 @@ height="50px"
 <tr>
  <th scope="col" width="100px"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="110px" height="30px">
 </th>
- <th scope="col" width="200px">Dantae#3327</th>
+ <th scope="col" width="200px">Dantae#6973</th>
 <tr>
  <th scope="col" width="100px"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110px" height="30px"></th>
  <th scope="col" width="250px">dantae.sona.jekins@gmail.com</th>
