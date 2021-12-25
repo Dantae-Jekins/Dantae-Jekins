@@ -124,7 +124,7 @@ height="50px"
 
 <br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&layout=compact&langs_count=5&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&layout=compact&langs_count=4&theme=gruvbox"/>
 
 <br>
 
