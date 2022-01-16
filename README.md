@@ -84,7 +84,7 @@ height="50px"
 
 - ***NO MERCADO DE TRABALHO***
 
-    nenhuma, aceitando vagas :'(.
+    nenhuma, aceitando (ainda n) vagas :'(.
 
 <br>
 
