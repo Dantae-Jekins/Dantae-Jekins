@@ -5,7 +5,6 @@ yummm torta holandesa é mt boa
 <hr>
 
 ### **Interesses:**
-Todos temos os nossos interesses, eu me sinto muito mais confortável em programar- qualquer coisa menos html e css.
 
 - ***LINGUAGENS***
 
@@ -78,49 +77,14 @@ height="50px"
 
 <hr>
 
-<br>
-
-### **Experiência**
-
-- ***NO MERCADO DE TRABALHO***
-
-    nenhuma, aceitando (ainda n) vagas :'(.
-
-<br>
-
-- ***SISTEMAS OPERACIONAIS E FERRAMENTAS***
-
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"
-    width="50px"
-    height="50px"
-/> ---- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    width="50px"
-    height="50px"
-/> ---- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"  
-    width="50px"
-    height="50px"
-/> ---- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    width="50px"
-    height="50px"
-/>
-
-<table table-layout="fixed">
-<tr>
- <th scope="col" width="100px">UNIX</th>
- <th scope="col" width="100px">CODE</th>
- <th scope="col" width="100px">VIM!</th>
- <th scope="col" width="100px">GIT</th>
-</tr>
-</table>
-
-<br>
 
 - ***LINGUAGENS***
 
-    Eu revejo linguagens por fora, mas aquelas que eu tenho maior memória muscular são:
+    Linguagem é o menos importante, toda estrutura de qualquer programa segue uma lógica de outro conteúdo, seja ele matemático, físico, de design, de redes, uma frase que representa parcialmente o que quero dizer vem de alguém que eu considero essencial: "Coding is to programming what typing is to writing." - Leslie Lamport. 
+
+    Basta saber a sintaxe, as ferramentas que ela proporciona, e, essencialmente para trabalhos em grupo, organizar o código, que todo o desafio se encontra no conhecimento que você tem de determinado assunto ou problema e em como você consegue abstrair ou modelar de forma que a linguagem consiga atingir o seu objetivo.
+
+    Ignora o jupyter essa coisa come o repositório.
 
 <br>
 
@@ -132,18 +96,6 @@ height="50px"
 
 <br>
 
-### CONTATOS:
-
-<table table-layout="fixed">
-<tr>
- <th scope="col" width="100px"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="110px" height="30px">
-</th>
- <th scope="col" width="200px">Dantae#6973</th>
-<tr>
- <th scope="col" width="100px"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110px" height="30px"></th>
- <th scope="col" width="250px">dantae.sona.jekins@gmail.com</th>
-</tr>
-</table>
 
 <!--
 **Dantae-Jekins/Dantae-Jekins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
