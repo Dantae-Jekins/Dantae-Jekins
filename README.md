@@ -87,11 +87,11 @@ height="50px"
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantae-Jekins&show_icons=true&theme=synthwave&custom_title=Status">  | 
+    <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Dantae-Jekins&show_icons=true&theme=synthwave&custom_title=Status&card_width=400"> 
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&hide=jupyter%20notebook&layout=compact&theme=synthwave&custom_title=Linguagens&line_height=30">
+    <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&hide=jupyter%20notebook&layout=compact&theme=synthwave&custom_title=Linguagens&">
 </a>
 
 
