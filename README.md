@@ -80,10 +80,6 @@ height="50px"
 
 - ***LINGUAGENS***
 
-    Linguagem é o menos importante, toda estrutura de qualquer programa segue uma lógica de outro conteúdo, seja ele matemático, físico, de design, de redes, uma frase que representa parcialmente o que quero dizer vem de alguém que eu considero essencial: "Coding is to programming what typing is to writing." - Leslie Lamport. 
-
-    Basta saber a sintaxe, as ferramentas que ela proporciona, e, essencialmente para trabalhos em grupo, organizar o código, que todo o desafio se encontra no conhecimento que você tem de determinado assunto ou problema e em como você consegue abstrair ou modelar de forma que a linguagem consiga atingir o seu objetivo. Mesmo assim, vale a pena salientar que as vezes as ferramentas que a linguagem oferece são muitas, de forma que a experiência nela (na linguagem) se torna obrigatória, os maiores exemplos disso, pelo menos que eu presenciei, foi ao ler sobre e programar em Rust e C++. 
-
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
