@@ -1,10 +1,10 @@
 <hr>
 
-yummm torta holandesa é mt boa
+Só queria dizer que torta holandesa é muito boa.
 
 <hr>
 
-### **Interesses:**
+### **Interesses e experiências:**
 
 - ***LINGUAGENS***
 
@@ -86,7 +86,14 @@ height="50px"
 
 <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantae-Jekins&show_icons=true&theme=synthwave&custom_title=Status">  | 
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&hide=jupyter%20notebook&layout=compact&theme=synthwave&custom_title=Linguagens&line_height=30">
+</a>
+
 
 
 <br>
