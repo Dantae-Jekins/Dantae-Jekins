@@ -88,7 +88,8 @@ height="50px"
 
 <br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&layout=compact&langs_count=4&theme=gruvbox"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantae-Jekins&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
