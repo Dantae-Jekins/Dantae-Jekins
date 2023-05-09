@@ -17,7 +17,7 @@ $$ASCII((X_n)_{j=1}^6)$$
 </a>
 
 <hr>
-
+<!--
 ### **Interesses e experiências:**
 
 --
@@ -89,7 +89,6 @@ height="70px"
 
 <hr>
 
-<!--
 **Dantae-Jekins/Dantae-Jekins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: texto de veio broxa.
