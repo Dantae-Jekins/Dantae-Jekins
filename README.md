@@ -4,7 +4,7 @@ Só queria dizer que torta holandesa é muito boa.
 
 $$X_n = -\frac{31 n^5}{40} + \frac{83 n^4}{6} - \frac{737 n^3}{8} + \frac{1687 n^2}{6} - \frac{3841 n}{10} + 259$$
 
-$$ASCII((X_n)_{j=1}^6)$$
+$$ASCII((X_j)_{j=1}^6)$$
 
 <br>
 
